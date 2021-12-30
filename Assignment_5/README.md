@@ -3,10 +3,10 @@
 * Optimal Algorithm
 * FIFO Algorithm
 * LRU Algorithm
-* Second-chance Algorithm   
+* Second-Chance Algorithm   
 
 ## 실행 결과
-* Optimal Algorithm
+* Optimal Algorithm   
     <img src="Capture/OPT.jpg" width="80%" height="80%"></img><br/>
 
 * FIFO Algorithm   
@@ -15,5 +15,5 @@
 * LRU Algorithm   
     <img src="Capture/LRU.jpg" width="80%" height="80%"></img><br/>
 
-* Second-chance Algorithm    
-    <img src="Capture/Second-chance.jpg" width="80%" height="80%"></img><br/>
+* Second-Chance Algorithm    
+    <img src="Capture/Second-Chance.jpg" width="80%" height="80%"></img><br/>
