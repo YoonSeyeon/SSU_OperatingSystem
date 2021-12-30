@@ -24,5 +24,5 @@
 통과하는데 걸린 총 걸린 시간을 출력
 
 ## 실행 결과 분석
-<img src="Capture/1.JPG" width="80%" height="80%"></img><br/>      
-<img src="Capture/2.JPG" width="80%" height="80%"></img><br/>
+<img src="Capture/1.JPG" width="50%" height="50%"></img><br/>      
+<img src="Capture/2.JPG" width="50%" height="50%"></img><br/>
