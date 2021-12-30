@@ -19,3 +19,10 @@
 5. 시스템 콜을 호출하는 테스트 프로그램 구현(syscall_operation.c)
 
 6. ```dmesg``` 명령어 통해 커널 로그를 출력하여 추가된 시스템 콜 함수의 실행을 확인
+
+## 실행 결과   
+- 수식을 입력받으면, 시스템 콜을 통해 수행한 연산 결과를 화면에 출력 
+<img src="Capture/execute.jpg" width="80%" height="80%"></img><br/>   
+
+- ```dmesg``` 명령어를 통해 연산을 수행했음을 확인 
+<img src="Capture/dmesg.jpg" width="80%" height="80%"></img><br/>   
